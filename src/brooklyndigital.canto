@@ -93,7 +93,7 @@ site brooklyndigital {
     page(*) base_page(params{}) {
         boolean ajax_enabled = false
     
-        title = "Poetic Programming: A Manifesto"
+        title = "Brooklyn Digital Arts"
         
         
         style {
